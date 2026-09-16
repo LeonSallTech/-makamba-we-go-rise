@@ -1,0 +1,12 @@
+{
+  "project": "Makamba We Go Rise",
+  "version": "0.1.0",
+  "language": ["Krio", "English"],
+  "style": ["Afrobeat", "Motivation", "Hustle", "Village Pride"],
+  "target": {
+    "format": "mp3",
+    "sample_rate": 44100,
+    "channels": 2,
+    "bitrate": "192k"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Makamba We Go Rise",
+  "artist_identity": "Unissa Sankoh",
+  "language": ["Krio", "English"],
+  "genre": "Afrobeat Motivation",
+  "mood": [
+    "uplifting",
+    "powerful",
+    "hopeful",
+    "emotional",
+    "celebratory"
+  ],
+  "tempo_bpm": 102,
+  "vocal": {
+    "style": "professional melodic Afrobeat lead",
+    "delivery": "warm, expressive, confident",
+    "lead": "clear melodic male vocal",
+    "chorus": "layered harmonies and call-and-response",
+    "adlibs": true
+  },
+  "intro": {
+    "speaker": "Unissa Sankoh",
+    "style": "deep cinematic spoken introduction",
+    "text": "Unissa Sankoh... Makamba, we go rise! From our village to the world... One dream, one people, one future."
+  },
+  "structure": [
+    "intro",
+    "instrumental_build",
+    "verse_1",
+    "pre_chorus",
+    "chorus",
+    "verse_2",
+    "pre_chorus",
+    "chorus",
+    "bridge",
+    "final_chorus",
+    "outro"
+  ]
+}
