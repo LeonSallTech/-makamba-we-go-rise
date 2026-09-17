@@ -1,0 +1,17 @@
+{
+  "project": "Makamba We Go Rise",
+  "release": "v1.0.0",
+  "release_commit": "0aa7c1545099fc2c4cd42ae8c00e4bd21e6b53e7",
+  "artifacts": {
+    "source_wav": {
+      "path": "stems/makamba_instrumental.wav",
+      "size_bytes": 53127556,
+      "sha256": "79635d7073a21a0371cd5a3ccc530f7ffb1b34bbdb24560530c19692f1f95066"
+    },
+    "release_mp3": {
+      "path": "output/makamba_instrumental.mp3",
+      "size_bytes": 2655177,
+      "sha256": "66a8110bf8cef2483be221d314b40a1756c7762e85009fd71484310148de906e"
+    }
+  }
+}
